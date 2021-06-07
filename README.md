@@ -1,4 +1,4 @@
-**Pyhton and Jupyther** are really *cool!*
+**Python and Jupyter** are really *cool!*
 - Markdown 설명을 위한 간단한 예제들
   - '- '를 사용하여 위와 같은 항목을 만듭니다.
   - '  '(띄어쓰기 두 칸)을 이용하여 항목 안의 항목을 만들수도 있습니다.
